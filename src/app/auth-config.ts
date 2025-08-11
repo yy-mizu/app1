@@ -3,8 +3,8 @@ import { IPublicClientApplication, PublicClientApplication, InteractionType } fr
 
 export const msalConfig = {
   auth: {
-    clientId: '30879caa-e0a4-4035-939f-bbd9450673bb',
-    authority: 'https://login.microsoftonline.com/ca4306be-7510-4095-a12e-d682468faa49',
+    clientId: '1863ffc9-6237-4ac9-96ae-58c0b10a8905',
+    authority: 'https://login.microsoftonline.com/65dde530-309a-4b9a-9e8c-d2a8c9a8b40a',
     redirectUri: 'http://localhost:4200',
   },
   cache: {
